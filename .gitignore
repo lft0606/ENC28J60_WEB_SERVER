@@ -1,8 +1,10 @@
+/Output
 /Output/*.d							
 /Output/*.o
+/Output/*.d
 /Output/*.crf
 /Output/*.lst
-/Output/*.hex
+!/Output/*.hex
 /Output/*.lnp
 /Output/*.map
 /Output/*.sct							
