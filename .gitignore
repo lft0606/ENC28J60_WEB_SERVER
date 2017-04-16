@@ -1,3 +1,10 @@
-/HEX/  #忽略HEX文件，即不用git管理HEX文件，因为每次编译都会生成。
-/HEX/project.build_log.htm #忽略该文件
-/USER/*.swp #忽略此类文件
+/Output/ENC28J60_WEB_Server.build_log.htm	#忽略HEX文件，即不用git管理HEX文件，因为每次编译都会生成。
+/Output/ENC28J60_WEB_Server.axf
+/Output/ENC28J60_WEB_Server.htm
+/Output/ENC28J60_WEB_Server.map
+/Output/led.crf
+/Output/led.o
+/Project/ENC28J60_WEB_Server.uvgui.Administrator
+/Project/ENC28J60_WEB_Server.uvgui_Administrator
+/Project/ENC28J60_WEB_Server_Target 1.dep
+
