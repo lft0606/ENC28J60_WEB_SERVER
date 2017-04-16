@@ -21,7 +21,7 @@ Description	: led初始化
 History			: // 历史修改记录
 <author> <time> <desc>
 1、LFT 2017/04/16 创建该文件
-2、LFT 2017/04/17 修改 LED的IO
+2、LFT 2017/04/17 修改LED的IO
 **************************************************************/
 void LED_Init(void)
 {
