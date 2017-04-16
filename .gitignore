@@ -1,4 +1,4 @@
-/Output				#忽略整个output文件
+/Output/				#忽略整个output文件
 /Output/ENC28J60_WEB_Server.htm
 /Output/ENC28J60_WEB_Server.build_log.htm
 /Project/ENC28J60_WEB_Server.uvgui.Administrator
