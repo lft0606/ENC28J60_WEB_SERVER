@@ -1,4 +1,4 @@
-/Output/*.d							#忽略整个output文件下所有后缀为.d的文件
+/Output/*.d							
 /Output/*.o
 /Output/*.crf
 /Output/*.lst
