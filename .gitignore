@@ -1,9 +1,20 @@
-/Output/				#忽略整个output文件
-/Output/ENC28J60_WEB_Server.htm
-/Output/ENC28J60_WEB_Server.build_log.htm
-/Project/ENC28J60_WEB_Server.uvgui.Administrator
-/Project/ENC28J60_WEB_Server.uvgui_Administrator
-/Project/ENC28J60_WEB_Server_Target 1.dep
-/Project/ENC28J60_WEB_Server.uvgui_Administrator.bak
+/Output/*.d							#忽略整个output文件下所有后缀为.d的文件
+/Output/*.o
+/Output/*.crf
+/Output/*.lst
+/Output/*.hex
+/Output/*.lnp
+/Output/*.map
+/Output/*.sct							
+/Output/*.htm
+/Output/*.build_log.htm
+/Project/*.htm
+/Project/*.uvgui.Administrator
+/Project/*.uvgui_Administrator
+/Project/*.dep
+/Project/*.bak
+/Project/*.txt
+/Project/*.ini
+/Project/*.uvgui_Administrator.bak
 
 
