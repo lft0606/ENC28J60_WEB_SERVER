@@ -1,3 +1,15 @@
+/************************************************************
+Copyright (C), 1988-1999, Tech. Co., Ltd.
+FileName:   led.c
+Author  : 	LFT
+Version : 	V1.0
+Date    :		20170416
+Description: led初始化
+History: // 历史修改记录
+<author> <time> <desc>
+1、LFT 2017/04/16 创建该文件
+2、LFT 2017/04/17 修改LED的IO
+**************************************************************/
 /********************************************************************************
  * vim:sw=8:ts=8:si:et
  * To use the above modeline in vim you must have "set modeline" in your .vimrc
