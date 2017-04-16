@@ -1,0 +1,3 @@
+/HEX/  #忽略HEX文件，即不用git管理HEX文件，因为每次编译都会生成。
+/HEX/project.build_log.htm #忽略该文件
+/USER/*.swp #忽略此类文件
