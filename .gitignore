@@ -1,15 +1,5 @@
 /Output
-/Output/*.d							
-/Output/*.o
-/Output/*.d
-/Output/*.crf
-/Output/*.lst
 !/Output/*.hex
-/Output/*.lnp
-/Output/*.map
-/Output/*.sct							
-/Output/*.htm
-/Output/*.build_log.htm
 /Project/*.htm
 /Project/*.uvgui.Administrator
 /Project/*.uvgui_Administrator
