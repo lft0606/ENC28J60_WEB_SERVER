@@ -7,7 +7,6 @@
 *.map
 *.sct
 *.lst
-*.hex
 /Project/*.htm
 /Project/*.uvgui.Administrator
 /Project/*.uvgui_Administrator
