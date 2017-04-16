@@ -1,5 +1,11 @@
-Output/
-!*.hex
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.map
+*.sct
 /Project/*.htm
 /Project/*.uvgui.Administrator
 /Project/*.uvgui_Administrator
