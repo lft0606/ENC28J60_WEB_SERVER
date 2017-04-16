@@ -1,3 +1,4 @@
+/Output/	#忽略整个output文件
 /Output/ENC28J60_WEB_Server.build_log.htm	#忽略HEX文件，即不用git管理HEX文件，因为每次编译都会生成。
 /Output/ENC28J60_WEB_Server.axf
 /Output/ENC28J60_WEB_Server.htm
@@ -7,4 +8,6 @@
 /Project/ENC28J60_WEB_Server.uvgui.Administrator
 /Project/ENC28J60_WEB_Server.uvgui_Administrator
 /Project/ENC28J60_WEB_Server_Target 1.dep
+/Project/ENC28J60_WEB_Server.uvgui_Administrator.bak
+
 
